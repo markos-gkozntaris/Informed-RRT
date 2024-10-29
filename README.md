@@ -1,6 +1,4 @@
-[Video](https://www.youtube.com/watch?v=5SEZZBKRWCk)
-
-Here is a quick look of what our work managed through a video:
+Here is a quick look of what our work managed through a video (click on image below):
 
 [![Informed RRT](https://img.youtube.com/vi/5SEZZBKRWCk/0.jpg)](https://www.youtube.com/watch?v=5SEZZBKRWCk)
 
