@@ -31,3 +31,5 @@ In folder `traj_planning/maps` there exist other maps with different types of ob
 
 Most of the files created by us are under folder traj_planning. We also made modifications to folder control in order to suit our setup.
 
+Credits to my teammates: George Apostolides, Guru Singh and Kevin Voogd
+
