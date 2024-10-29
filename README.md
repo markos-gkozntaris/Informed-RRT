@@ -1,5 +1,9 @@
 [Video](https://www.youtube.com/watch?v=5SEZZBKRWCk)
 
+Here is a quick look of what our work managed through a video:
+
+[![Video Title](https://img.youtube.com/vi/5SEZZBKRWCk/0.jpg)](https://www.youtube.com/watch?v=5SEZZBKRWCk)
+
 # How to run  the code:
 
 Choose algorithm in file `traj_planning/test_sequence.m` and run.
